@@ -92,7 +92,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/sudip-kumar-saha">
+  <a href="https://www.linkedin.com/in/sudip-kumar-saha">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/SudipKumar15955?t=qhqcjEq2FYwlqx03tlUCEg&s=07">
