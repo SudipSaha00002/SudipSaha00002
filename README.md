@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sudip%20Kumar%20Saha&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Undergraduate%20Student%20of%20CSE%2CBUET&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=SudipSaha00002">
     <img src="https://komarev.com/ghpvc/?username=SudipSaha00002&label=Profile%20views&color=00FFFF&style=flat-square" alt="SudipSaha00002's profile views" />
   </a>
-</p>
+</p> -->
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
