@@ -1,12 +1,44 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sudip%20Kumar%20Saha&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Undergraduate%20Student%20of%20CSE%2CBUET&descSize=18&descAlignY=55&textBg=false"/>
+<img src="banner.svg" width="100%" alt="Banner"/>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,29&text=%F0%9F%91%8B+Hi%2C+This+is+Sudip+Kumar+Saha&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=%F0%9F%A4%96+AI%2FML+Enthusiastic+%7C+%F0%9F%93%9A+Always+Try+To+Learn+New+Things&descSize=17&descAlignY=60&textBg=false"/>
+
+
+
+
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sudip%20Kumar%20Saha&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Undergraduate%20Student%20of%20CSE%2CBUET&descSize=18&descAlignY=55&textBg=false"/> -->
+
+
+<!-- <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" /> -->
 
 <!-- <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
-</h1> -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />&nbsp; Hi, This is Sudip Kumar Saha
+</h1>
 
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=%F0%9F%A4%96+AI%2FML+Enthusiastic;%F0%9F%93%9A+Always+Try+To+Learn+New+Things" alt="Typing SVG" />
+</p> -->
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
+
+
+
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sudip%20Kumar%20Saha&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Undergraduate%20Student%20of%20CSE%2CBUET&descSize=18&descAlignY=55&textBg=false"/> -->
+
+
+<!-- <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" /> -->
+
+<!-- <h2 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />&nbsp; Hi, This is Sudip Kumar Saha
+</h2>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%F0%9F%A4%96+AI%2FML+Enthusiastic;%F0%9F%93%9A+Always+Trying+To+Learn+New+Things;%F0%9F%9A%80+Undergrad+CSE+Student+%40+BUET" alt="Typing SVG" />
+  </a>
+</p> -->
+
 
 
 <!-- <p align="center">
@@ -31,10 +63,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SudipSaha00002&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="SudipSaha00002's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=SudipSaha00002&theme=nightowl&hide_border=true&cache_seconds=86400" alt="SudipSaha00002's GitHub Streak" width="49%" />
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=SudipSaha00002&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sudip Kumar Saha's GitHub Trophies" />
