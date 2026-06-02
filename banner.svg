@@ -1,0 +1,97 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#0d0d2b"/>
+      <stop offset="35%"  stop-color="#1a1060"/>
+      <stop offset="70%"  stop-color="#0e4b9e"/>
+      <stop offset="100%" stop-color="#006e8a"/>
+    </linearGradient>
+
+    <!-- Clip: typewriter reveal for message 1 -->
+    <clipPath id="c1">
+      <rect x="0" y="162" height="36">
+        <animate attributeName="width"
+          values="0;900;900;0;0"
+          keyTimes="0;0.22;0.44;0.50;1"
+          dur="12s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <!-- Clip: typewriter reveal for message 2 -->
+    <clipPath id="c2">
+      <rect x="0" y="162" height="36">
+        <animate attributeName="width"
+          values="0;0;0;900;900;0"
+          keyTimes="0;0.50;0.55;0.77;0.94;1"
+          dur="12s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" fill="url(#bg)"/>
+
+  <!-- Glow orbs -->
+  <circle cx="110" cy="80"  r="75" fill="#7c3aed" fill-opacity="0.12"/>
+  <circle cx="820" cy="90"  r="85" fill="#0097a7" fill-opacity="0.10"/>
+
+  <!-- Stars -->
+  <circle cx="52"  cy="32"  r="1.5" fill="white" fill-opacity="0.55"/>
+  <circle cx="195" cy="17"  r="1.2" fill="white" fill-opacity="0.40"/>
+  <circle cx="680" cy="25"  r="1.5" fill="white" fill-opacity="0.50"/>
+  <circle cx="832" cy="52"  r="1.2" fill="white" fill-opacity="0.38"/>
+  <circle cx="875" cy="120" r="1.5" fill="white" fill-opacity="0.45"/>
+  <circle cx="28"  cy="170" r="1.2" fill="white" fill-opacity="0.30"/>
+  <circle cx="760" cy="155" r="1.0" fill="white" fill-opacity="0.32"/>
+
+  <!-- Wave layers -->
+  <path d="M0,210 C120,190 240,220 360,205 C480,188 600,220 720,205 C810,194 870,210 900,204 L900,280 L0,280 Z"
+        fill="#1565c0" fill-opacity="0.35"/>
+  <path d="M0,228 C150,214 310,240 460,226 C610,210 760,242 900,228 L900,280 L0,280 Z"
+        fill="#0097a7" fill-opacity="0.22"/>
+  <path d="M0,248 C200,240 430,255 630,245 C770,238 858,252 900,247 L900,280 L0,280 Z"
+        fill="#0d0d2b" fill-opacity="0.50"/>
+
+  <!-- ROW 1: Waving hand (left) + Greeting text (inline) -->
+  <g>
+    <text x="192" y="115"
+          font-size="44"
+          font-family="Segoe UI Emoji,Apple Color Emoji,Noto Color Emoji,sans-serif">👋</text>
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 214 97;20 214 97;-8 214 97;20 214 97;0 214 97;0 214 97;0 214 97"
+      keyTimes="0;0.12;0.25;0.38;0.52;0.75;1"
+      dur="2.5s" repeatCount="indefinite"/>
+  </g>
+
+  <text x="248" y="115"
+        text-anchor="start"
+        font-family="Segoe UI,Helvetica Neue,Arial,sans-serif"
+        font-size="29" font-weight="700" fill="white" letter-spacing="0.3">
+    Hi, This is Sudip Kumar Saha
+  </text>
+
+  <!-- ROW 3a: Message 1 with typewriter clip -->
+  <text x="450" y="192"
+        text-anchor="middle"
+        clip-path="url(#c1)"
+        font-family="Courier New,Courier,monospace"
+        font-size="21" fill="#58A6FF">
+    🤖 AI/ML Enthusiastic
+  </text>
+
+  <!-- ROW 3b: Message 2 with typewriter clip -->
+  <text x="450" y="192"
+        text-anchor="middle"
+        clip-path="url(#c2)"
+        font-family="Courier New,Courier,monospace"
+        font-size="21" fill="#58A6FF">
+    📚 Always Try To Learn New Things
+  </text>
+
+  <!-- Blinking cursor -->
+  <text x="672" y="192"
+        font-family="Courier New,monospace"
+        font-size="23" fill="#58A6FF">|
+    <animate attributeName="opacity" values="1;0;1" dur="0.85s" repeatCount="indefinite"/>
+  </text>
+</svg>
