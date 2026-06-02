@@ -1,5 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sudip%20Kumar%20Saha&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Undergraduate%20Student%20of%20CSE%2CBUET&descSize=18&descAlignY=55&textBg=false"/>
 
+<!-- <h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1> -->
+
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+
+[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
+
+
 <!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=SudipSaha00002">
     <img src="https://komarev.com/ghpvc/?username=SudipSaha00002&label=Profile%20views&color=00FFFF&style=flat-square" alt="SudipSaha00002's profile views" />
@@ -22,6 +31,10 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SudipSaha00002&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="SudipSaha00002's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=SudipSaha00002&theme=nightowl&hide_border=true&cache_seconds=86400" alt="SudipSaha00002's GitHub Streak" width="49%" />
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=SudipSaha00002&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sudip Kumar Saha's GitHub Trophies" />
@@ -101,6 +114,7 @@
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
 
+
 </p>
 
 <h3 align="center">Tools</h3>
@@ -109,6 +123,7 @@
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" />
