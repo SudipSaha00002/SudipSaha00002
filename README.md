@@ -1,7 +1,7 @@
 <img src="banner.svg" width="100%" alt="Banner"/>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,29&text=%F0%9F%91%8B+Hi%2C+This+is+Sudip+Kumar+Saha&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=%F0%9F%A4%96+AI%2FML+Enthusiastic+%7C+%F0%9F%93%9A+Always+Try+To+Learn+New+Things&descSize=17&descAlignY=60&textBg=false"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,29&text=%F0%9F%91%8B+Hi%2C+This+is+Sudip+Kumar+Saha&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=%F0%9F%A4%96+AI%2FML+Enthusiastic+%7C+%F0%9F%93%9A+Always+Try+To+Learn+New+Things&descSize=17&descAlignY=60&textBg=false"/> -->
 
 
 
@@ -50,12 +50,14 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- i am an Undergrade Student of Computer Science and Engineering
+- 🎓 Undergraduate Student of Computer Science and Engineering
+- 🌍 Based in Dhaka, Bangladesh
+
 
 
 ## 🧠 My Focus Areas
-- Web Development
-- AI/ML Research
+- 🌐 Web Development
+- 🤖 AI/ML Research
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -160,7 +162,8 @@
 
 <p align="center">
   <a href="https://github.com/SudipSaha00002">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SudipSaha00002&langs_count=8&layout=compact&theme=shades-of-purple&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SudipSaha00002&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+  </a>
   </a>
 </p>
 
