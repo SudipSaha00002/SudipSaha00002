@@ -1,8 +1,8 @@
 <img src="banner.svg" width="100%" alt="Banner"/>
 
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,29&text=%F0%9F%91%8B+Hi%2C+This+is+Sudip+Kumar+Saha&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=%F0%/%A4%96+AI%2FML+Enthusiastic+%7C%F0%9F%93%9A+Always+Try+To+Learn+New+Things&descSize=17&descAlignY=60&textBg=false"/> --
 
+SudipKumarsaha
 
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sudip%20Kumar%20Saha&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Undergraduate%20Student%20of%20CSE%2CBUET&descSize=18&descAlignY=55&textBg=false"/> --
