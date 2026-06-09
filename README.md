@@ -62,7 +62,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudipSaha00002&theme=nightowl&hide_border=true" alt="SudipSaha00002's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SudipSaha00002&theme=nightowl&no-frame=true&no-bg=true&margin-w=4" alt="Sudip Kumar Saha's GitHub Trophies" />
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=SudipSaha00002&theme=nightowl&no-frame=true&no-bg=true&margin-w=4" alt="Sudip Kumar Saha's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=SudipSaha00002&theme=nightowl&radius=10" alt="SudipSaha00002's Activity Graph" />
