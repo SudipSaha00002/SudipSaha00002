@@ -53,7 +53,7 @@
 - 🤖 AI/ML Research
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/SudipSaha00002">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SudipSaha00002&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="SudipSaha00002's GitHub Stats" />
   </a>
@@ -61,6 +61,19 @@
 </p>
 <p align="center">
 <img src="https://github-profile-trophy-tawny.vercel.app/?username=SudipSaha00002&theme=nightowl&no-frame=true&no-bg=true&margin-w=4" alt="Sudip Kumar Saha's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=SudipSaha00002&theme=nightowl&radius=10" alt="SudipSaha00002's Activity Graph" />
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/SudipSaha00002">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SudipSaha00002&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="SudipSaha00002's GitHub Stats" />
+  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudipSaha00002&theme=nightowl&hide_border=true" alt="SudipSaha00002's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=SudipSaha00002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Sudip Kumar Saha's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=SudipSaha00002&theme=nightowl&radius=10" alt="SudipSaha00002's Activity Graph" />
